@@ -45,4 +45,5 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 
 ---
 
-> 🤝 Open to opportunities and collaborations in full-stack development and AI-driven applications.
+> 🤝 Open to opportunities and collaborations in full-stack development and AI/ML.  >
+> 📂 Feel free to explore my repositories to learn more about my work.
