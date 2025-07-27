@@ -42,5 +42,4 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 - 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkar-kulkarni-075913249/)
 
 
-> 🤝 Open to opportunities and collaborations in full-stack development and AI/ML.  >
-> 📂 Feel free to explore my repositories to learn more about my work.
+> 🤝 Open to opportunities and collaborations in full-stack development and AI/ML. 
