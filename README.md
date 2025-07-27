@@ -4,28 +4,29 @@ I recently completed my **B.Tech in Computer Science and Engineering (Artificial
 
 My core skills include **full-stack development** using the **MERN stack**, with additional experience in **Angular**, **.NET**, and **SQL Server**. I also have a solid foundation in **C++, Java, Python, JavaScript**, and **SQL**.
 
-I enjoy working on projects that combine **machine learning** and **web technologies**, especially those focused on solving real-world problems.
+I enjoy working on projects that combine **machine learning** and **web technologies** to address real-world problems.
 
 ---
 
-## **🌟 About Me**
+## **🧑‍💻 Profile Snapshot**
 
 - 💻 Full-Stack Developer (MERN | Angular | .NET | SQL Server)
-- 🎓 Computer Science Graduate – B.Tech CSE(AI)
+- 🎓 Computer Science Graduate – B.Tech (AI)
 - 🧠 Proficient in C++, Java, Python, JavaScript, and SQL
-- 🤖 Interested in AI/ML 
+- 🤖 Interested in AI/ML and real-time systems
+- 🏐 Volleyball enthusiast and team player
 
 ---
 
-## **🔧 Tech Stack**
+## **🛠️ Tech Stack**
 
 ### **Frontend**
-- React.js, Angular
-- HTML, CSS, JavaScript
+- React.js, Angular  
+- HTML, CSS, JavaScript  
 - Tailwind CSS, Bootstrap
 
 ### **Backend**
-- Node.js, Express.js
+- Node.js, Express.js  
 - ASP.NET  
 - MongoDB, MySQL, SQL Server
 
@@ -33,17 +34,16 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 - C, C++, Java, Python, JavaScript, SQL
 
 ### **Tools**
-- Git, GitHub
+- Git, GitHub  
 - VS Code, Visual Studio, Postman
 
 ---
 
-## **📫 Contact**
+## **📫 Get in Touch**
 
 - 📧 Email: [omkarkulkarni923@gmail.com](mailto:omkarkulkarni923@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkarkulkarni/)
-- 💻 GitHub: [github.com/Omkark158](https://github.com/Omkark158)
 
 ---
 
-> 🔄 Open to collaboration on **MERN**, **.NET**, or **AI/ML projects**.
+> 🤝 Always open to connecting and collaborating on meaningful tech projects.
