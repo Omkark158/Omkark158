@@ -6,14 +6,14 @@ My core skills include **full-stack development** using the **MERN stack**, with
 
 I enjoy working on projects that combine **machine learning** and **web technologies** to address real-world problems.
 
+---
 
-## **🧑‍💻 Profile Snapshot**
+## **🌟 About Me**
 
-- 💻 Full-Stack Developer (MERN | Angular | .NET | SQL Server)
-- 🎓 Computer Science Graduate – B.Tech (AI)
-- 🧠 Proficient in C++, Java, Python, JavaScript, and SQL
-- 🤖 Interested in AI/ML and real-time systems
-- 🏐 Volleyball enthusiast and team player
+- 💻 Full-Stack Developer (MERN | Angular | .NET | SQL Server)  
+- 🎓 Computer Science Graduate – B.Tech (AI)  
+- 🧠 Proficient in C++, Java, Python, JavaScript, and SQL  
+- 🤖 Interested in AI/ML  
 
 ---
 
@@ -36,11 +36,13 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 - Git, GitHub  
 - VS Code, Visual Studio, Postman
 
+---
 
 ## **📫 Get in Touch**
 
-- 📧 Email: [omkarkulkarni923@gmail.com](mailto:omkarkulkarni923@gmail.com)
+- 📧 Email: [omkarkulkarni923@gmail.com](mailto:omkarkulkarni923@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkarkulkarni/)
 
+---
 
-> 🤝 Always open to connecting and collaborating on meaningful tech projects.
+> 🤝 Open to opportunities and collaborations in full-stack development and AI-driven applications.
