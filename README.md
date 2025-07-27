@@ -6,7 +6,6 @@ My core skills include **full-stack development** using the **MERN stack**, with
 
 I enjoy working on projects that combine **machine learning** and **web technologies** to address real-world problems.
 
----
 
 ## **🌟 About Me**
 
@@ -15,7 +14,6 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 - 🧠 Proficient in C++, Java, Python, JavaScript, and SQL  
 - 🤖 Interested in AI/ML  
 
----
 
 ## **🛠️ Tech Stack**
 
@@ -36,14 +34,13 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 - Git, GitHub  
 - VS Code, Visual Studio, Postman
 
----
+
 
 ## **📫 Get in Touch**
 
 - 📧 Email: [omkarkulkarni923@gmail.com](mailto:omkarkulkarni923@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkar-kulkarni-075913249/)
 
----
 
 > 🤝 Open to opportunities and collaborations in full-stack development and AI/ML.  >
 > 📂 Feel free to explore my repositories to learn more about my work.
