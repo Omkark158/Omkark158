@@ -1,11 +1,49 @@
-- 👋 Hi, I’m @Omkark158 (OMKAR KULKARNI)
-- 👀 I’m interested exploring innovative solutions in web development and artificial intelligence.
-- 🌱 I’m currently learning in the final year of my B.Tech in Computer Science and Engineering (Artificial Intelligence).
-- 🔄 I’m looking to collaborate on MERN stack and ML projects.
-- 📫 How to reach me : omkarkulkarni923@gmail.com
-- ⚡ Fun fact: I have strong programming skills in C and C++ and love integrating machine learning with web development.
+# 👋 Hi, I’m Omkar Kulkarni
 
-<!---
-Omkark158/Omkark158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I recently completed my **B.Tech in Computer Science and Engineering (Artificial Intelligence)**. I’m a developer with a strong interest in building **scalable, secure, and practical web applications**.
+
+My core skills include **full-stack development** using the **MERN stack**, with additional experience in **Angular**, **.NET**, and **SQL Server**. I also have a solid foundation in **C++, Java, Python, JavaScript**, and **SQL**.
+
+I enjoy working on projects that combine **machine learning** and **web technologies**, especially those focused on solving real-world problems.
+
+---
+
+## **🌟 About Me**
+
+- 💻 Full-Stack Developer (MERN | Angular | .NET | SQL Server)
+- 🎓 Computer Science Graduate – B.Tech CSE(AI)
+- 🧠 Proficient in C++, Java, Python, JavaScript, and SQL
+- 🤖 Interested in AI/ML 
+
+---
+
+## **🔧 Tech Stack**
+
+### **Frontend**
+- React.js, Angular
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+
+### **Backend**
+- Node.js, Express.js
+- ASP.NET  
+- MongoDB, MySQL, SQL Server
+
+### **Programming**
+- C, C++, Java, Python, JavaScript, SQL
+
+### **Tools**
+- Git, GitHub
+- VS Code, Visual Studio, Postman
+
+---
+
+## **📫 Contact**
+
+- 📧 Email: [omkarkulkarni923@gmail.com](mailto:omkarkulkarni923@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkarkulkarni/)
+- 💻 GitHub: [github.com/Omkark158](https://github.com/Omkark158)
+
+---
+
+> 🔄 Open to collaboration on **MERN**, **.NET**, or **AI/ML projects**.
