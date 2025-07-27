@@ -17,8 +17,6 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 
 ## **🛠️ Tech Stack**
 
-## **🛠️ Tech Stack**
-
 **Programming Languages:** C, C++, Java, Python, JavaScript, SQL  
 **Frontend:** React.js, Angular, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
 **Backend:** Node.js, Express.js, ASP.NET, MongoDB, MySQL, SQL Server  
