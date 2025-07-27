@@ -10,7 +10,7 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 
 ## **🌟 About Me**
 
-- 💻 Full-Stack Developer (MERN | Angular | .NET | SQL Server)  
+- 💻 Full-Stack Developer (MERN Stack | Angular, .NET, SQL Server)
 - 🎓 Computer Science Graduate – B.Tech (AI)  
 - 🧠 Proficient in C++, Java, Python, JavaScript, and SQL  
 - 🤖 Interested in AI/ML  
@@ -22,7 +22,7 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 ### **Frontend**
 - React.js, Angular  
 - HTML, CSS, JavaScript  
-- Tailwind CSS, Bootstrap
+- Tailwind CSS
 
 ### **Backend**
 - Node.js, Express.js  
