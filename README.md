@@ -6,7 +6,6 @@ My core skills include **full-stack development** using the **MERN stack**, with
 
 I enjoy working on projects that combine **machine learning** and **web technologies** to address real-world problems.
 
----
 
 ## **🧑‍💻 Profile Snapshot**
 
@@ -37,13 +36,11 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 - Git, GitHub  
 - VS Code, Visual Studio, Postman
 
----
 
 ## **📫 Get in Touch**
 
 - 📧 Email: [omkarkulkarni923@gmail.com](mailto:omkarkulkarni923@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkarkulkarni/)
 
----
 
 > 🤝 Always open to connecting and collaborating on meaningful tech projects.
