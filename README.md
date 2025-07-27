@@ -41,7 +41,7 @@ I enjoy working on projects that combine **machine learning** and **web technolo
 ## **📫 Get in Touch**
 
 - 📧 Email: [omkarkulkarni923@gmail.com](mailto:omkarkulkarni923@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkarkulkarni/)
+- 💼 LinkedIn: [linkedin.com/in/omkarkulkarni](https://www.linkedin.com/in/omkar-kulkarni-075913249/)
 
 ---
 
